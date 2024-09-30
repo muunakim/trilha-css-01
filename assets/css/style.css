@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+.banner {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, .2) 100%), url(../images/banner.png);
+    background-size: cover;
+    height: 605px;
+    padding-top: 60px;
+    border-bottom: 1px solid #33A8DB80;
+}
+
+.banner-content {
+    color: white;
+    width: 510px px;
+    height: 393px px;
+}
+
