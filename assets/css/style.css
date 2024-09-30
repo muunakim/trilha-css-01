@@ -2,6 +2,11 @@ body {
     background-color: black;
 }
 
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
 .banner {
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, .2) 100%), url(../images/banner.png);
     background-size: cover;
