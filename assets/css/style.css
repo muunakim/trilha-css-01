@@ -37,6 +37,7 @@ body {
 
 .banner-content {
     color: white;
+    width: 600px;
     margin: auto;
     text-align: center;
 }
