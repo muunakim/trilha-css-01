@@ -81,13 +81,16 @@ h2 {
     margin: 24px;
 }
 
+section {
+    margin: 100px auto;
+}
+
 #course-content {
     color: white;
     width: 800px;
     font-size: 16px;
     line-height: 18.78px;
     text-align: center;
-    margin: 100px auto;
 }
 
 .modules-list {
@@ -124,3 +127,19 @@ h2 {
     margin-left: 198px;
     text-shadow: 3px 2px 0px #33A8DB;
 }
+
+#professional-challenges {
+    text-align: center;
+    width: 746px;
+}
+
+#professional-challenges img {
+    margin: 24px;
+}
+
+#professional-challenges p {
+    color: white;
+    width: 792px;
+    
+}
+
