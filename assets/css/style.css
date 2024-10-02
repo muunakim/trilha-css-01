@@ -68,7 +68,7 @@ button {
     padding: 16px 32px;
     background-color: transparent;
     border-image: linear-gradient(#3BA1CD, #1572B7);
-    border-image-slice: 10
+    border-image-slice: 10;
 }
 
 h2 {
@@ -158,4 +158,3 @@ footer a {
     font-weight: bold;
     text-decoration: none;
 }
-
